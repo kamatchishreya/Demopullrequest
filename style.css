@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(207, 182, 211);
+    font-family: Arial, Helvetica, sans-serif;    
+}
+
+h1 {
+    text-align: center;
+    padding: 70px;
+}
+
+.code {
+    text-align: center;
+}
